@@ -1,0 +1,16 @@
+*.exe
+*.txt
+*.vcxproj
+*.vcxproj.filters
+*.filters
+*.log
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.sln
+*.vcxproj.user
+.vs
+Debug
+Release
